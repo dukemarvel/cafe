@@ -1,0 +1,32 @@
+#location-search {
+  display: flex;
+  justify-content: center;
+  padding: 2em;
+  background-color: #f8f9fa;
+  margin-top: 2em; /* Add some space above the location search section */
+}
+
+#location-search h2 {
+  margin-right: 1em; /* Add some space to the right of the "Find Us" text */
+}
+
+#location-search input {
+  width: 200px; /* Make the search bar smaller */
+  padding: 1em;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#location-search button {
+  padding: 1em 2em;
+  margin-left: 1em;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#location-search button:hover {
+  background-color: #0056b3;
+}

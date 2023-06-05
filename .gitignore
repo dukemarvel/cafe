@@ -1,0 +1,26 @@
+# dependencies
+/cafe-frontend/node_modules
+/cafe-backend/node_modules
+
+# testing
+/cafe-frontend/coverage
+/cafe-backend/coverage
+
+# production
+/cafe-frontend/build
+/cafe-backend/build
+
+# misc
+.DS_Store
+/cafe-frontend/.env.local
+/cafe-frontend/.env.development.local
+/cafe-frontend/.env.test.local
+/cafe-frontend/.env.production.local
+/cafe-backend/.env.local
+/cafe-backend/.env.development.local
+/cafe-backend/.env.test.local
+/cafe-backend/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

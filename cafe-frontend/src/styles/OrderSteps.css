@@ -1,0 +1,32 @@
+#order-steps {
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+    padding: 3em;
+    text-align: center;
+  }
+  
+  .step {
+    width: 20%; /* Adjust as needed */
+  }
+  
+  .step img {
+    width: 50px; /* Adjust as needed */
+    height: auto;
+    transition: transform 0.3s ease-in-out; /* This will animate the rotation */
+  }
+  
+  .step img:hover {
+    transform: rotate(360deg); /* This will rotate the image 360 degrees when hovered over */
+  }
+  
+  
+  .step h3 {
+    font-size: 1.2em;
+    margin: 1em 0;
+  }
+  
+  .step p {
+    font-size: 1em;
+  }
+  

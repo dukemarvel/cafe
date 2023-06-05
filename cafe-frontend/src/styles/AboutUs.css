@@ -1,0 +1,51 @@
+#about-us {
+    background-image: url('https://assets.limetray.com/assets/image_manager/uploads/6530/bg-texture-chalk.jpg');
+    background-size: cover;
+    padding: 2em;
+    color: #fff;
+  }
+
+  .about-us-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 8em; /* Add padding to the ends */
+  }
+  
+  .about-us-image {
+    max-width: 300px; /* Set a maximum width */
+    max-height: 300px; /* Set a maximum height */
+    height: calc(100% ); /* Adjust as needed */
+    object-fit: cover;
+    margin-top: 1.5em; /* Adjust as needed */
+    margin-bottom: 1.5em; /* Adjust as needed */
+    margin-right: 8em; /* Add space to the right of the image */
+  }
+  
+  #about-us h2 {
+    font-size: 2em;
+  }
+  
+  #about-us p {
+    flex: 2; /* This will make the text take up 2/3 of the space */
+    font-size: 1.2em;
+  }
+  
+  .explore-button {
+    padding: 1em 2em;
+    background-color: #ffc107;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    cursor: pointer;
+  }
+  
+  .explore-button:hover {
+    background-color: #e0a800;
+  }
+
+  .separator-image {
+    width: 100%;
+    object-fit: cover;
+  }
+  
