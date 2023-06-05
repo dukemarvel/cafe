@@ -6,7 +6,7 @@ const HomePage = () => {
   return (
     <section id="home">
       <div className="carousel-container">
-        <Carousel autoPlay infiniteLoop showThumbs={false}>
+        <Carousel autoPlay infiniteLoop showThumbs={false} showStatus={false}>
           <div>
             <img src="https://assets.limetray.com/assets/image_manager/uploads/7834/indomiecafe-large-slide-2.jpg" />
           </div>
