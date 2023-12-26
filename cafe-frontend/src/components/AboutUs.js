@@ -8,7 +8,7 @@ const AboutUs = () => {
         <img src="https://s3-ap-southeast-1.amazonaws.com/assets.limetray.com/assets/user_images/content_images/original/abt-indomiecafe2.jpg" alt="About us" className="about-us-image" />
         <div>
           <h2>About Us</h2>
-          <p>Indomie Cafe is the first Noodle Bar in Nigeria which is making fusion food a big hit among many foodies! Our delicious and innovative recipes offer spicy taste and visual treats for all our customers. With our world-class experience, fresh ingredients, innovative recipes, affordable prices and vibrant and lively interiors— Indomie is going to be your go-to place for delicious food and a great time with friends and family. Get ready to taste the twist offered by the iconic brand of noodles. Our appetizing dishes include Yummie Rolls, Frittatas, Frizzled Eggs, Prawn Mie, refreshing drinks and a lot more.</p>
+          <p>Welcome to JustAda Kitchen! We are a unique dining destination in Nigeria, offering a blend of traditional and modern recipes. Our menu includes a variety of dishes such as yam and egg, jollof rice, fried rice, spaghetti, and local favorites like pap and akara. We are committed to providing a unique dining experience that celebrates the rich flavors and culinary traditions of our region. Come and explore our menu!</p>
           <button className="explore-button">Explore Menu</button>
         </div>
       </div>
